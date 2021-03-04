@@ -1,5 +1,5 @@
 # Kelsey McNeely
-# 03/03/2021
+# 3.3.2021
 # filter ExomeDepth output labeled with hgnc IDs by gene list
 # input: 1 patient csv file
 # modify output path (line 43)
